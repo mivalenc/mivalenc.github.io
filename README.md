@@ -1,5 +1,3 @@
-# mivalenc.github.io
-
 Portfolio
 
 About Me
